@@ -1,0 +1,166 @@
+{
+    "items": [
+      {
+        "category": {
+          "name": "通用",
+          "items": [
+            {
+              "enumeration": {
+                "name": "颜色",
+                "values": [
+                  "yellow",
+                  "orange",
+                  "green",
+                  "gray",
+                  "red",
+                  "blue",
+                  "white",
+                  "golden",
+                  "brown",
+                  "black"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "category": {
+          "name": "载具",
+          "items": [
+            {
+              "enumeration": {
+                "name": "车型",
+                "values": [
+                  "sedan",
+                  "pickup",
+                  "van",
+                  "bus",
+                  "truck"
+                ]
+              }
+            },
+            {
+                "enumeration": {
+                  "name": "方向",
+                  "values": [
+                    "靠近",
+                    "远离"
+                  ]
+                }
+              }
+          ]
+        }
+      },
+      {
+        "category": {
+          "name": "行人",
+          "items": [
+            {
+              "enumeration": {
+                "name": "性别",
+                "values": [
+                  "男",
+                  "女",
+                  "第三性别"
+                ]
+              }
+            },
+            {
+                "enumeration": {
+                  "name": "年龄",
+                  "values": [
+                    "0-5",
+                    "6-10",
+                    "11-15",
+                    "16-20",
+                    "21-30",
+                    "31-40",
+                    "41-50",
+                    "51-60",
+                    "61-70",
+                    "71-80",
+                    "81-100"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "朝向",
+                  "values": [
+                    "前",
+                    "后",
+                    "左",
+                    "右"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "上衣",
+                  "values": [
+                    "长袖",
+                    "短袖"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "下装",
+                  "values": [
+                    "长裤",
+                    "短裤",
+                    "裙子"
+                  ]
+                }
+              },
+            {
+                "enumeration": {
+                  "name": "戴帽子",
+                  "values": [
+                    "是",
+                    "否"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "戴眼镜",
+                  "values": [
+                    "是",
+                    "否"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "单肩包",
+                  "values": [
+                    "是",
+                    "否"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "双肩包",
+                  "values": [
+                    "是",
+                    "否"
+                  ]
+                }
+              },
+              {
+                "enumeration": {
+                  "name": "搬运物体",
+                  "values": [
+                    "是",
+                    "否"
+                  ]
+                }
+              }
+          ]
+        }
+      }
+    ]
+  }
